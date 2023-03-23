@@ -17,3 +17,13 @@ java 개발자 과정 프론트앤드 리포지토리
     -HTML 5 입력태그
     -CSS 3 기본
     -CSS 3 고급
+
+## 3일차
+- HTML 5 학습
+    - CSS 3 고급
+    - HTML 레이아웃
+    - 반응형 웹
+
+3일차 레이아웃
+
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/Day03/image/KakaoTalk_20230323_172838897.png" width="600">

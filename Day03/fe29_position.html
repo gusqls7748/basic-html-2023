@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>CSS 위치 속성</title>
+    <style>
+        /*  #out {  쓸건지 body > div 쓸건지 자신이 편한거 쓰면 됨*/
+        body > div  {
+            width: 420px;
+            height: 150px;
+           /* border: 2px solid black; */
+            position: relative; /*  */
+            overflow: hidden; /* overflow: hidden; 영역 넘어버리면 자른다는 뜻*/
+        }
+        .box {
+            width: 100px; height: 100px;
+            position: absolute; /*좌표값 필요함*/
+        }
+        .box:nth-child(1){
+            background-color: red;
+            left: 10px; top: 10px;
+            z-index: 900; /* z-index: =위치 순서를 바꿀 수 있는 역활*/
+        }
+    
+        .box:nth-child(2){
+            background-color: green;
+            left: 50px; top: 50px;
+            z-index: 90;
+
+        }
+    
+        .box:nth-child(3){
+            background-color: blue;
+            left: 90px; top: 90px;
+            z-index: 10;
+
+        }
+    </style>
+    <!-- <style>
+        .box:nth-child(1) {background-color: red;}
+        .box:nth-child(2) {background-color: blue;} 
+        .box:nth-child(3) {background-color: green;}
+    </style> -->
+</head>
+<body>
+    <h1>Lorem ipsum dolor sit</h1>
+    <div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    </div>
+    <h1>Lorem ipsum dolor sit</h1>
+
+    
+</body>
+</html>
