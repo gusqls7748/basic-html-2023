@@ -26,4 +26,4 @@ java 개발자 과정 프론트앤드 리포지토리
 
 3일차 레이아웃
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/Day03/image/KakaoTalk_20230323_172838897.png" width="600">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day03/image/KakaoTalk_20230323_172838897.png" width="600">
