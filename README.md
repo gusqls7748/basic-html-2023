@@ -39,7 +39,7 @@ java 개발자 과정 프론트앤드 리포지토리
 
 4일차 그리드레이아웃 포토갤러리
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day04/image/gallery04.png" width="600">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day04/image/gallery05.png" width="600">
 
 
 ## 5일차
