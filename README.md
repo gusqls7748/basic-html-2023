@@ -47,6 +47,11 @@ java 개발자 과정 프론트앤드 리포지토리
 - 프로트엔드 학습
     - js/jQuery 연동
     - BOorstrap 학습
+    - Bootstrap Album example 클로닝
+
+## 6일차
+- 프로트엔드 학습
+    - Bootstrap Album example 완성하기
     - 포트폴리오 웹사이트 만들기
 
 
