@@ -22,22 +22,21 @@
             $('#btnLight').addClass('active');
 
             $('img').css("border-radius", "5px 5px 0 0"); // 모든 이미지에 위쪽테두리 둥근모서리
+            
             //테마변경
-            $("#btnLight").click(function () {
+            $('#btnLight').click(function () {
                 $('html').attr('data-bs-theme', 'light');
-                $(this).addBack('active');
+                $(this).addClass('active');
                 $('#btnDark').removeClass('active');
             });
-            $("#btnDark").click(function () {
+            $('#btnDark').click(function () {
                 $('html').attr('data-bs-theme', 'dark');
-                $(this).addBack('active');
+                $(this).addClass('active');
                 $('#btnLight').removeClass('active');
-
             });
         });
     </script>
 </head>
-
 <body>
     <!--맨바닥 테마(light/dark) 변경 버튼 영역-->
     <div class="dropdown position-fixed bottom-0 end-0 mb-3 bd-mode-toggle" style="z-index: 100;">
