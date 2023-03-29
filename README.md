@@ -11,7 +11,7 @@ java 개발자 과정 프론트앤드 리포지토리
 
 1일차 학습내용
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/KakaoTalk_20230321_165255837.png" width="300">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/KakaoTalk_20230321_165255837.png" width="700">
 
 ## 2일차
 - 프로트엔드 학습
@@ -29,7 +29,7 @@ java 개발자 과정 프론트앤드 리포지토리
 
 3일차 레이아웃
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day03/image/KakaoTalk_20230323_172838897.png" width="600">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day03/image/KakaoTalk_20230323_172838897.png" width="700">
 
 ## 4일차
 - 프로트엔드 학습
@@ -40,7 +40,7 @@ java 개발자 과정 프론트앤드 리포지토리
 
 4일차 그리드레이아웃 포토갤러리
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day04/image/gallery05.png" width="600">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day04/image/gallery05.png" width="700">
 
 
 ## 5일차
@@ -56,7 +56,7 @@ java 개발자 과정 프론트앤드 리포지토리
 
 6일차 Bootstrap 앨범 클로닝
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/album_theme.png" width="600">
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/album_theme.png" width="700">
 
     - 포트폴리오 웹사이트 만들기
 
