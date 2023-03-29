@@ -71,10 +71,12 @@ java 개발자 과정 프론트앤드 리포지토리
     - Parallax Scrolling Web
 
 
-7일차 Bootstrap 앨범 클로닝
+7일차 핀터레스트 스타일 클로닝
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/Day07/image/pingterest2.png" width="700"> 
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/pingterest2.png" width="700"> 
     
+parallax Scrolling web
 
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/parallaxweb.png" width="700"> 
 
 
