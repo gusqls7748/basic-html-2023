@@ -92,11 +92,11 @@ img{
     width: 3rem;
 }
 
-.contact-section.social {
+.contact-section .social {
     margin-top: 5rem;
 }
 
-.contact-section.social a {
+.contact-section .social a {
     text-align: center;
     width: 3rem; height: 3rem;
     background-color: rgba(225, 225, 225, 0.1);
@@ -105,11 +105,11 @@ img{
     color: rgba(255, 255, 255, 0.5);
 }
 
-.contact-section.social a:hover {
+.contact-section .social a:hover {
     color: rgba(255, 255, 255, 0.5);
 }
 
-.contact-section.social a:active {
+.contact-section .social a:active {
     color: white;
 }
 
