@@ -86,3 +86,7 @@ parallax Scrolling web
 -프로트엔트 학습
     - single page Template
     - SB Admin page
+
+grayscale single page Template
+
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/portfolio3.png" width="700"> 
