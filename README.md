@@ -100,6 +100,25 @@ grayscale single page Template
 
 SB Admin Page 중간단계
 
-<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/portfolio3.png" width="700"> 
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/portfolio4.png" width="700"> 
 
 
+## 10일차
+- 프로트엔드 실습
+    -SB Admin Page 마무리
+        -simple-datatable.js
+
+SB Admin Page 마무리
+
+            - [simple datatables.js]("https://github.com/fiduswriter/simple-datatables.js")
+
+<img src="https://raw.githubusercontent.com/gusqls7748/basic-html-2023/main/image/portfolio4(1).png" width="700"> 
+
+
+## 11일차
+- 프로트엔드 실습
+    -
+
+## 11일차
+- 프로트엔드 실습
+    -
