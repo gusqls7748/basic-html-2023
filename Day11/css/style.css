@@ -7,6 +7,10 @@
     box-sizing: border-box;         /*박스 영역은 테두리까지 지정*/
 }
 
+a {
+    text-decoration: none;
+}
+
 ul {
     list-style: none;
 }
@@ -15,7 +19,6 @@ ul {
     margin: 0 auto;                  /*화면 중앙에 배치*/
     width: 1200px;                   /* 너비 지정 */
 }
-/* (.. 생략...)*/
 /*  헤더 영역   */
 header {
     width: 100%;                     /* 너비 */
@@ -41,11 +44,6 @@ header {
     text-shadow: 0 -1px 0 #222;  /* 그림자색 */
 }
 
-a {
-    text-decoration: none;
-}
-
-
 /* 네비게이션 영역*/
 nav {
     float: right;              /* 오른쪽으로 플로팅 */ 
@@ -67,7 +65,7 @@ nav {
 #topMenu > li >a {
     display: block;            /*링크 텍스트는 블록으로*/
     color: #fff;            /* 폰트 색상 */
-    font-weight: 600;          /*폰트 굵기*/
+    font-weight: 6600;          /*폰트 굵기*/
     text-shadow: 0 1px #07c; /* 그림자 추가 */
     padding: 20px 60px;         /* 패딩 지정 */
 }
@@ -86,7 +84,6 @@ nav {
     position: absolute;      /* 서브메뉴 포지셔닝*/
     width: 160px;
     background-color: rgba(255, 255, 255, 0.6);      /* 배경 투명색 지정 */
-    left: 0;
     margin: 0;
     left: 20px;
 }
@@ -249,6 +246,7 @@ button:focus {
     display:  block;
     margin: 0 auto;
     width: 150px;
+    height: 150px;
     border-radius: 100%;
     border: 1px solid #ddd;
     line-height: 150px;
@@ -291,9 +289,9 @@ footer {
     border-right: 1px solid #ddd;
 }
 
-#bottomMenu ul li:last-child {
+/* #bottomMenu ul li:last-child {
     border-right: none;
-}
+} */
 #bottomMenu ul li a, #bottomMenu ul li a:visited {
     font-size: 15px;
     color: #666;
