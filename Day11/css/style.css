@@ -65,7 +65,7 @@ nav {
 #topMenu > li >a {
     display: block;            /*링크 텍스트는 블록으로*/
     color: #fff;            /* 폰트 색상 */
-    font-weight: 6600;          /*폰트 굵기*/
+    font-weight: 600;          /*폰트 굵기*/
     text-shadow: 0 1px #07c; /* 그림자 추가 */
     padding: 20px 60px;         /* 패딩 지정 */
 }
@@ -220,7 +220,7 @@ button:focus {
 }
 
 #tab1:checked ~ #notice,
-#tab2:checked ~ #notice {
+#tab2:checked ~ #gallery{
     display: block;
 }
 
